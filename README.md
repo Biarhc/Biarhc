@@ -2,7 +2,7 @@
 * São Paulo, Brasil
 * Português, Inglês
 * Future Web Developer
-* Programação, desenvolvimento Web no Senai
+* Programação, Desenvolvimento Web
 
 # ✦ 𝒜bout me 𓏵
 * Linguagens : Java script, Html
