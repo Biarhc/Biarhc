@@ -14,3 +14,8 @@
 * Html
 * Python
 * JavaScript
+
+# ✦ 𝓞bjetivos
+* Me tornar desenvolvedora web
+* Aprender novas linguagens de programação
+* Criar projetos cada vez melhores
