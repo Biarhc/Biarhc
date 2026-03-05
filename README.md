@@ -20,5 +20,4 @@
 * Me tornar desenvolvedora web
 * Aprender novas linguagens de programação
 * Criar projetos cada vez melhores
-<br>
 愛
