@@ -7,3 +7,8 @@
 * Linguagens : Java script, Html
 * Aprendendo sobre programação e buscando conhecimento na área web
 * Hobbies : ler, ver filmes e ouvir música
+
+# ✦ Atualmente aprendendo
+* CSS
+* Html
+* JavaScript
