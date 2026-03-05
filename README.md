@@ -1,4 +1,4 @@
-# ✦ ℬia Rocha - 14 anos ⋆
+# ✦ ℬia Rocha - 14 anos ♡
 * São Paulo, Brasil
 * Português, Inglês
 * Future Web Developer
@@ -20,3 +20,5 @@
 * Me tornar desenvolvedora web
 * Aprender novas linguagens de programação
 * Criar projetos cada vez melhores
+<br>
+愛
