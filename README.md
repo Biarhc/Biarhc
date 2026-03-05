@@ -5,8 +5,8 @@
 * Programação, Desenvolvimento Web 💻
 
 # ✦ 𝒜bout me 𓏵
-* Linguagens : Java script, Html
 * Hobbies : ler, ver filmes e ouvir música
+* Linguagens : Java script, Html, Excel, Word
 * Aprendendo sobre programação e buscando conhecimento na área web
 
 # ✦ 𝒜tualmente aprendendo ᵎᵎ
