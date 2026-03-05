@@ -12,4 +12,5 @@
 # ✦ 𝒜tualmente aprendendo ᵎᵎ
 * CSS
 * Html
+* Python
 * JavaScript
