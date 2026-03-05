@@ -1,6 +1,7 @@
 # ✦ Bia Rocha - 14 anos
 * São Paulo, Brasil
 * Português, Inglês
+* Future Web Developer
 * Programação, desenvolvimento Web no Senai
 
 # ✦ About me
