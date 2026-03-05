@@ -1,4 +1,4 @@
-# ✦ 𝓑ia Rocha - 14 anos ⋆
+# ✦ ℬia Rocha - 14 anos ⋆
 * São Paulo, Brasil
 * Português, Inglês
 * Future Web Developer
