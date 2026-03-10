@@ -17,7 +17,7 @@
 * JavaScript
 
 # ✦ 𝒪bjetivos ˚࿔
-* Me tornar desenvolvedora web
+* Me tornar uma desenvolvedora web
 * Aprender novas linguagens de programação
 * Criar projetos cada vez melhores
 <br> ૮ ․ ․ ྀིა
