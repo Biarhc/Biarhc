@@ -1,7 +1,7 @@
 # ✦ ℬia Rocha - 15 anos ♡
 * São Paulo, Brasil
-* Português, Inglês
 * Future Web Developer
+* Português, Inglês, Espanhol
 * Programação, Desenvolvimento Web 💻
 
 # ✦ 𝒜bout me 𓏵
