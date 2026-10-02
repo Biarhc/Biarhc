@@ -13,7 +13,6 @@
 * CSS
 * Html
 * Python
-* Arduino
 * JavaScript
 
 # ✦ 𝒪bjetivos ˚࿔
